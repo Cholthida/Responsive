@@ -11,7 +11,7 @@
     box-sizing: border-box;
 }
 :root{
-    --mainGrey: blue;
+    --mainGrey: red;
     --mainWhite: #fff;
     --primaryColor: #F7B1AB;
     --secondColor: #CC2936;
